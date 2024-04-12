@@ -9,7 +9,7 @@ Application type: Console Application
 
 This readme file will show you how to use the console application.
 "Part1". The main objective shows users what the application can do. 
-
+ 
 The Recipe Application is built using C# and consists of several classes:  
  
 - Ingredient: Represents an ingredient in a recipe, with properties for its name, quantity, original quantity, and unit of measurement. 
