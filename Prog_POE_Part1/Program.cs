@@ -12,7 +12,7 @@ public class Ingredient
 // Step class to represent steps in a recipe
 public class Step
 {
-    // Description of the step
+    // Description of the step 
     public string Description { get; set; }
 }
 
