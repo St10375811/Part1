@@ -6,7 +6,7 @@ public class Ingredient
     public string Name { get; set; } // Name of the ingredient
     public int Quantity { get; set; } // Quantity of the ingredient
     public int OriginalQuantity { get; set; } // Original quantity of the ingredient
-    public string UnitOfMeasurement { get; set; } // Unit of measurement for the ingredient 
+    public string UnitOfMeasurement { get; set; } // Unit of measurement for the ingredient  
 }
 
 // Step class to represent steps in a recipe
