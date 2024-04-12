@@ -16,7 +16,7 @@ public class Step
     public string Description { get; set; }
 }
 
-// Define the Recipe class to represent a recipe
+// Recipe class to represent a recipe
 public class Recipe
 {
     public string RecipeName { get; set; } // Name of the recipe
