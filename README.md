@@ -4,7 +4,7 @@ Full Name: Leeto Isaiah Sebake
 Student Number: ST10375811
 Written in: C#
 Application type: Console Application
- 
+  
 -----------------------------------------------------------
 
 This readme file will show you how to use the console application.
