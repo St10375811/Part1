@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 // Ingredient class to represent ingredients in a recipe
-public class Ingredient
+public class Ingredient 
 {
     public string Name { get; set; } // Name of the ingredient
     public int Quantity { get; set; } // Quantity of the ingredient
