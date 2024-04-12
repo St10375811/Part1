@@ -8,7 +8,7 @@ Application type: Console Application
 -----------------------------------------------------------
 
 This readme file will show you how to use the console application.
-"Part1". The main objective shows users what the application can do.
+"Part1". The main objective shows users what the application can do. 
 
 The Recipe Application is built using C# and consists of several classes: 
  
