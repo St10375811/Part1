@@ -9,7 +9,7 @@ public class Ingredient
     public string UnitOfMeasurement { get; set; } // Unit of measurement for the ingredient
 }
 
-// Define the Step class to represent steps in a recipe
+// Step class to represent steps in a recipe
 public class Step
 {
     // Description of the step
