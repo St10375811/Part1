@@ -12,7 +12,7 @@ This readme file will show you how to use the console application.
  
 The Recipe Application is built using C# and consists of several classes:  
  
-- Ingredient: Represents an ingredient in a recipe, with properties for its name, quantity, original quantity, and unit of measurement. 
+- Ingredient: Represents an ingredient in a recipe, with properties for its name, quantity, original quantity, and unit of measurement.  
 - Step: Represents a step in a recipe, containing a description of the step.
 - Recipe: Represents a recipe, containing a name, list of ingredients, and list of steps. It provides methods for adding ingredients and steps, displaying the recipe, scaling the recipe quantities, and resetting    the recipe to its original quantities.
 - Program: Contains the main method and handles user interaction through a menu-driven interface. It allows users to create, display, scale, reset, and clear recipes.
