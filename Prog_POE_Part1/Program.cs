@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-// Define the Ingredient class to represent ingredients in a recipe
+// Ingredient class to represent ingredients in a recipe
 public class Ingredient
 {
     public string Name { get; set; } // Name of the ingredient
